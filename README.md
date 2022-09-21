@@ -23,3 +23,7 @@ Link to Teammate Repo: https://github.com/komila123/ECE444-F2022-Lab1
 Activity 5 Screenshots:
 
 ![](images/Activity5.png)
+
+Activity 6:
+
+https://github.com/Skhaki18/ECE444-F2022-EP
