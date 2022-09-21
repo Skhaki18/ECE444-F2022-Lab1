@@ -27,3 +27,9 @@ Activity 5 Screenshots:
 Activity 6:
 
 https://github.com/Skhaki18/ECE444-F2022-EP
+
+Activity 7:
+
+![](images/Activity7A.png)
+
+![](images/Activity7B.png)
