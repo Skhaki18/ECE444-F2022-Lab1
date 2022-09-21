@@ -12,3 +12,10 @@ Activity 3 Screenshots:
 
 ![](images/Activity3A.png)
 ![](images/Activity3B.png)
+
+Activity 4:
+
+Link to Teammate Repo: https://github.com/komila123/ECE444-F2022-Lab1
+
+![](images/Activity4A.png)
+![](images/Activity4B.png)
