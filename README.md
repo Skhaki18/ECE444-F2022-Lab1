@@ -33,3 +33,9 @@ Activity 7:
 ![](images/Activity7A.png)
 
 ![](images/Activity7B.png)
+
+Activity 8:
+
+![](images/Activity8A.png)
+
+![](images/Activity8B.png)
